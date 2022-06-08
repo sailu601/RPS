@@ -220,7 +220,7 @@
   <target name="war" depends="package" description="Builds the war for the application"/>
 
   <!-- ====================================================================== -->
-  <!-- Download dependencies target                                           -->
+  <!-- Download dependencies target             test poll scm                              -->
   <!-- ====================================================================== -->
 
   <target name="test-offline">
