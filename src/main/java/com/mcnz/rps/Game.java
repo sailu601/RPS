@@ -9,7 +9,7 @@ public class Game {
 		String input = JOptionPane.showInputDialog(prompt);
 		System.out.println("You selected: " + input);
 		System.out.println("The game begins");
-		System.out.println("Game end");
+		System.out.println("Game end          gjgjhgjhgggggggggggggggg");
 	}
 
 }
