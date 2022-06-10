@@ -1,4 +1,4 @@
-package com.mcnz.rps;
+package main.java.com.mcnz.rps;
 
 import javax.swing.JOptionPane;
 
